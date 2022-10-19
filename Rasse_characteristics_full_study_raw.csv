@@ -1,0 +1,1568 @@
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 16:36:35 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53,,,,,,,,,,,
+# Design number was non-random = 10,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664555716648,NULL
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664555727190,NULL
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664555727192,NULL
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664555727197,NULL
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,1,0,instructions,NULL,Var,ID,Final,5ea5d79c37cb2805c2e6f08e,1664555747374,Value at the end of the trial
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664555747374,NULL
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664555747376,NULL
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,2,0,race-trial,NULL,Var,race_1,Final,Farbe,1664555795686,Value at the end of the trial
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,2,0,race-trial,NULL,Var,race_2,Final,Harre,1664555795686,Value at the end of the trial
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,2,0,race-trial,NULL,Var,race_3,Final,Kultur,1664555795686,Value at the end of the trial
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,2,0,race-trial,NULL,Var,race_4,Final,imigration,1664555795686,Value at the end of the trial
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,2,0,race-trial,NULL,Var,race_5,Final,rassismus,1664555795686,Value at the end of the trial
+1664555795,81a3fa0de51f77ced7f898fc4f4230ac,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664555795686,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 16:53:59 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/16.0 Mobile/15E148 Safari/604.1,,,,,,,,,,,
+# Design number was non-random = 11,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664556740225,NULL
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664556777220,NULL
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664556777226,NULL
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664556777231,NULL
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664556787638,NULL
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,1,0,instructions,NULL,Var,ID,Final,https://farm.pcibex.net/p/oRkTAZ,1664556787638,Value at the end of the trial
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664556787641,NULL
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,2,0,race-trial,NULL,Var,race_4,Final,Gesundheit,1664556839694,Value at the end of the trial
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,2,0,race-trial,NULL,Var,race_3,Final,Hautfarbe,1664556839694,Value at the end of the trial
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,2,0,race-trial,NULL,Var,race_2,Final,Religion,1664556839694,Value at the end of the trial
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,2,0,race-trial,NULL,Var,race_1,Final,Nationalität,1664556839694,Value at the end of the trial
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664556839695,NULL
+1664556839,8d634b5bbac85c30f420f88107bef368,PennController,2,0,race-trial,NULL,Var,race_5,Final,Arbeit,1664556839695,Value at the end of the trial
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 16:56:22 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) FxiOS/104.2  Mobile/15E148 Safari/605.1.15,,,,,,,,,,,
+# Design number was non-random = 11,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664556820695,NULL
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664556839245,NULL
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664556839251,NULL
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664556839256,NULL
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664556842222,NULL
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,1,0,instructions,NULL,Var,ID,Final,6282050151f31c188e88d95b,1664556842222,Value at the end of the trial
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664556842224,NULL
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664556981332,NULL
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,2,0,race-trial,NULL,Var,race_5,Final,Empazhie,1664556981332,Value at the end of the trial
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,2,0,race-trial,NULL,Var,race_4,Final,Zerstörung des eigenen Lebensraumes,1664556981332,Value at the end of the trial
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,2,0,race-trial,NULL,Var,race_3,Final,Selbstzerstörung,1664556981332,Value at the end of the trial
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,2,0,race-trial,NULL,Var,race_2,Final,Technisches Verständnis ,1664556981332,Value at the end of the trial
+1664556982,961b76c94ed11f6d2d2f615dd7c24bff,PennController,2,0,race-trial,NULL,Var,race_1,Final,Aufrechter Gang,1664556981332,Value at the end of the trial
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 16:56:27 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 12,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664556942485,NULL
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664556953583,NULL
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664556953584,NULL
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664556953586,NULL
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,1,0,instructions,NULL,Var,ID,Final,5c338ac6c75f190001e7fb97,1664556964166,Value at the end of the trial
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664556964166,NULL
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664556964166,NULL
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,2,0,race-trial,NULL,Var,race_1,Final,Kultur,1664556986613,Value at the end of the trial
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,2,0,race-trial,NULL,Var,race_2,Final,Hautfarbe,1664556986613,Value at the end of the trial
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,2,0,race-trial,NULL,Var,race_3,Final,Mentalität,1664556986613,Value at the end of the trial
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,2,0,race-trial,NULL,Var,race_4,Final,Sitten,1664556986613,Value at the end of the trial
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,2,0,race-trial,NULL,Var,race_5,Final,Rechte,1664556986613,Value at the end of the trial
+1664556987,016a8f32055bc4b309908b48c882c7d4,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664556986613,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 16:57:53 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/106.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 14,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557023157,NULL
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557031271,NULL
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557031273,NULL
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557031277,NULL
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,1,0,instructions,NULL,Var,ID,Final,5e986435a93c9104ab935f20,1664557036935,Value at the end of the trial
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557036935,NULL
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557036936,NULL
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,2,0,race-trial,NULL,Var,race_1,Final,Gleichheit,1664557073071,Value at the end of the trial
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,2,0,race-trial,NULL,Var,race_2,Final,Hautfarbe,1664557073071,Value at the end of the trial
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,2,0,race-trial,NULL,Var,race_3,Final,Eigenschaft,1664557073071,Value at the end of the trial
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,2,0,race-trial,NULL,Var,race_4,Final,Denken,1664557073071,Value at the end of the trial
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,2,0,race-trial,NULL,Var,race_5,Final,Herkunft,1664557073071,Value at the end of the trial
+1664557073,7c7926a62e03c048152903c9c06363af,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557073071,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:01:02 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Linux; Android 12; SM-F721B) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 15,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557195354,NULL
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557206199,NULL
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557206202,NULL
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557206207,NULL
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,1,0,instructions,NULL,Var,ID,Final,627bc7027fdd16e4fa4b956c,1664557219252,Value at the end of the trial
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557219252,NULL
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557219255,NULL
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,2,0,race-trial,NULL,Var,race_1,Final,Race,1664557262415,Value at the end of the trial
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,2,0,race-trial,NULL,Var,race_2,Final,Rassismus ,1664557262415,Value at the end of the trial
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,2,0,race-trial,NULL,Var,race_3,Final,segregation ,1664557262415,Value at the end of the trial
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,2,0,race-trial,NULL,Var,race_4,Final,konstrukt,1664557262415,Value at the end of the trial
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,2,0,race-trial,NULL,Var,race_5,Final,Hierarchie ,1664557262415,Value at the end of the trial
+1664557262,e6b4abe85fa686b70bb1501e29851166,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557262415,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:02:26 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 14989.107.0) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 15,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557244810,NULL
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557250161,NULL
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557250166,NULL
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557250174,NULL
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,1,0,instructions,NULL,Var,ID,Final,5c8ab4225b8132001749d125,1664557266684,Value at the end of the trial
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557266684,NULL
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557266688,NULL
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,2,0,race-trial,NULL,Var,race_1,Final,Abstammung,1664557345383,Value at the end of the trial
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,2,0,race-trial,NULL,Var,race_2,Final,Aussehen,1664557345383,Value at the end of the trial
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,2,0,race-trial,NULL,Var,race_3,Final,Kultur,1664557345383,Value at the end of the trial
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,2,0,race-trial,NULL,Var,race_4,Final,Ahnen,1664557345383,Value at the end of the trial
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,2,0,race-trial,NULL,Var,race_5,Final,Lebensraum,1664557345383,Value at the end of the trial
+1664557346,6b40998679a49d391634718d2a21ab0e,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557345383,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:04:57 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Linux; Android 10; MAR-LX1A) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 17,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557437314,NULL
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557444996,NULL
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557445011,NULL
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557445025,NULL
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,1,0,instructions,NULL,Var,ID,Final,5c851854f9d18a00165561b6,1664557448510,Value at the end of the trial
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557448510,NULL
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557448516,NULL
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,2,0,race-trial,NULL,Var,race_1,Final,Herkunft,1664557498054,Value at the end of the trial
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,2,0,race-trial,NULL,Var,race_2,Final,Hautfarbe,1664557498054,Value at the end of the trial
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,2,0,race-trial,NULL,Var,race_3,Final,Sprache,1664557498054,Value at the end of the trial
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,2,0,race-trial,NULL,Var,race_4,Final,Athletik,1664557498055,Value at the end of the trial
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,2,0,race-trial,NULL,Var,race_5,Final,Körpergröße,1664557498055,Value at the end of the trial
+1664557497,2896300b8cfd4ec07bbad00f4e2861ab,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557498055,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:05:31 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 11,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664556669732,NULL
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557420748,NULL
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557420750,NULL
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557420751,NULL
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,1,0,instructions,NULL,Var,ID,Final,5ae203d63cb5b0000185ccc7,1664557431209,Value at the end of the trial
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557431209,NULL
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557431210,NULL
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,2,0,race-trial,NULL,Var,race_1,Final,Teint,1664557528551,Value at the end of the trial
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,2,0,race-trial,NULL,Var,race_2,Final,Herkunft,1664557528551,Value at the end of the trial
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,2,0,race-trial,NULL,Var,race_3,Final,Temperaturempfindlichkeit,1664557528552,Value at the end of the trial
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,2,0,race-trial,NULL,Var,race_4,Final,Haarbeschaffenheit,1664557528552,Value at the end of the trial
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,2,0,race-trial,NULL,Var,race_5,Final,Körperproportionen,1664557528552,Value at the end of the trial
+1664557531,98aca8a6460d4b4848853264d4e88b9a,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557528552,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:07:05 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0,,,,,,,,,,,,
+# Design number was non-random = 19,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557559221,NULL
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557576189,NULL
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557576192,NULL
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557576197,NULL
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,1,0,instructions,NULL,Var,ID,Final,604d17eb4931a500d6e0a3d3,1664557591915,Value at the end of the trial
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557591915,NULL
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557591917,NULL
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,2,0,race-trial,NULL,Var,race_1,Final,Menschen,1664557624379,Value at the end of the trial
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,2,0,race-trial,NULL,Var,race_2,Final,Tiere,1664557624380,Value at the end of the trial
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,2,0,race-trial,NULL,Var,race_3,Final,Herkunft,1664557624380,Value at the end of the trial
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,2,0,race-trial,NULL,Var,race_4,Final,Reise,1664557624380,Value at the end of the trial
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,2,0,race-trial,NULL,Var,race_5,Final,Heimat,1664557624380,Value at the end of the trial
+1664557625,a9b3613e76f5b84cddcd3bb33626b105,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557624380,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:07:15 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53,,,,,,,,,,,
+# Design number was non-random = 19,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557590419,NULL
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557594688,NULL
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557594691,NULL
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557594694,NULL
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,1,0,instructions,NULL,Var,ID,Final,5bfe8696ee43d800010a6fc7,1664557604052,Value at the end of the trial
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557604052,NULL
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557604054,NULL
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,2,0,race-trial,NULL,Var,race_1,Final,Ideologie,1664557634926,Value at the end of the trial
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,2,0,race-trial,NULL,Var,race_2,Final,Konstrukt,1664557634926,Value at the end of the trial
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,2,0,race-trial,NULL,Var,race_3,Final,Hautfarbe,1664557634926,Value at the end of the trial
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,2,0,race-trial,NULL,Var,race_4,Final,Herkunft,1664557634926,Value at the end of the trial
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,2,0,race-trial,NULL,Var,race_5,Final,Ethnie,1664557634926,Value at the end of the trial
+1664557635,cb9c2c2adcc7f1afff7db89b8e53b2ef,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557634926,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:08:29 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 19,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557598586,NULL
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557600667,NULL
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557600669,NULL
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557600671,NULL
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,1,0,instructions,NULL,Var,ID,Final,5fef891f9bf07d29c1ee7bfe,1664557603717,Value at the end of the trial
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557603717,NULL
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557603718,NULL
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664557709040,Value at the end of the trial
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,2,0,race-trial,NULL,Var,race_2,Final,Genetik,1664557709040,Value at the end of the trial
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,2,0,race-trial,NULL,Var,race_3,Final,Gruppen,1664557709040,Value at the end of the trial
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,2,0,race-trial,NULL,Var,race_4,Final,Herkunft,1664557709040,Value at the end of the trial
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,2,0,race-trial,NULL,Var,race_5,Final,Biologie,1664557709040,Value at the end of the trial
+1664557709,9fb6176a8879c2d7f865757f5163865f,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557709040,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:08:59 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/106.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 21,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557669047,NULL
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557672927,NULL
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557672928,NULL
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557672931,NULL
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,1,0,instructions,NULL,Var,ID,Final,6159c69b6e9debe1d5fab716,1664557678095,Value at the end of the trial
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557678095,NULL
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557678096,NULL
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,2,0,race-trial,NULL,Var,race_1,Final,Nationalsozialismus,1664557739247,Value at the end of the trial
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,2,0,race-trial,NULL,Var,race_2,Final,Rassismus,1664557739247,Value at the end of the trial
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,2,0,race-trial,NULL,Var,race_3,Final,Nazis,1664557739247,Value at the end of the trial
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,2,0,race-trial,NULL,Var,race_4,Final,Hunde,1664557739247,Value at the end of the trial
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,2,0,race-trial,NULL,Var,race_5,Final,Katzen,1664557739247,Value at the end of the trial
+1664557739,39cdcffdf27d7e0161fb83a0af293eca,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557739247,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:10:19 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/15.6.1 Mobile/15E148 Safari/604.1,,,,,,,,,,,
+# Design number was non-random = 23,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557745328,NULL
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557764052,NULL
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557764060,NULL
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557764066,NULL
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557771802,NULL
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,1,0,instructions,NULL,Var,ID,Final,60fd0232c3f0f1a0f44ca3fb,1664557771802,Value at the end of the trial
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557771806,NULL
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557819267,NULL
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,2,0,race-trial,NULL,Var,race_5,Final,Herkunft,1664557819267,Value at the end of the trial
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,2,0,race-trial,NULL,Var,race_4,Final,Hautfarbe,1664557819267,Value at the end of the trial
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,2,0,race-trial,NULL,Var,race_3,Final,Geschichte,1664557819267,Value at the end of the trial
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,2,0,race-trial,NULL,Var,race_2,Final,Diskriminierung,1664557819267,Value at the end of the trial
+1664557819,c47df3c1cb01b7c7441d65c756431e20,PennController,2,0,race-trial,NULL,Var,race_1,Final,Unterschiede,1664557819267,Value at the end of the trial
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:10:42 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G973F) AppleWebKit/537.36 (KHTML,like Gecko) SamsungBrowser/18.0 Chrome/99.0.4844.88 Mobile Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 23,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557778259,NULL
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557790557,NULL
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557790562,NULL
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557790571,NULL
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,1,0,instructions,NULL,Var,ID,Final,62e195905c5e45c04d70ce0d,1664557794783,Value at the end of the trial
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557794783,NULL
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557794791,NULL
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,2,0,race-trial,NULL,Var,race_1,Final,Essen,1664557843800,Value at the end of the trial
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,2,0,race-trial,NULL,Var,race_2,Final,Herkunft ,1664557843800,Value at the end of the trial
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,2,0,race-trial,NULL,Var,race_3,Final,Aussehen,1664557843801,Value at the end of the trial
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,2,0,race-trial,NULL,Var,race_4,Final,Kultur,1664557843801,Value at the end of the trial
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,2,0,race-trial,NULL,Var,race_5,Final,Sprache ,1664557843801,Value at the end of the trial
+1664557842,2aaaca2bffb7459c5fe526a9679fa16d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557843801,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:11:24 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0,,,,,,,,,,,,
+# Design number was non-random = 22,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557740828,NULL
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557776811,NULL
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557776819,NULL
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557776827,NULL
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,1,0,instructions,NULL,Var,ID,Final,5dd08cf019eecb169dc131ba,1664557791389,Value at the end of the trial
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664557791389,NULL
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664557791392,NULL
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,2,0,race-trial,NULL,Var,race_1,Final,Herkunft,1664557884114,Value at the end of the trial
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,2,0,race-trial,NULL,Var,race_2,Final,Weiß,1664557884114,Value at the end of the trial
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,2,0,race-trial,NULL,Var,race_3,Final,Schwarz,1664557884114,Value at the end of the trial
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,2,0,race-trial,NULL,Var,race_4,Final,Wohnort,1664557884115,Value at the end of the trial
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,2,0,race-trial,NULL,Var,race_5,Final,Charakter ,1664557884115,Value at the end of the trial
+1664557884,77d291735d321d5537ebcd306ad55ba1,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664557884115,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:13:48 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 26,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557974572,NULL
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664557999441,NULL
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664557999443,NULL
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664557999445,NULL
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,1,0,instructions,NULL,Var,ID,Final,604d26915c5dc2a98d18c7fd,1664558005401,Value at the end of the trial
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558005401,NULL
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558005402,NULL
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hund,1664558027937,Value at the end of the trial
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,2,0,race-trial,NULL,Var,race_2,Final,Mensch,1664558027937,Value at the end of the trial
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,2,0,race-trial,NULL,Var,race_3,Final,Ausgrenzung,1664558027937,Value at the end of the trial
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,2,0,race-trial,NULL,Var,race_4,Final,Toleranz,1664558027937,Value at the end of the trial
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,2,0,race-trial,NULL,Var,race_5,Final,Integration,1664558027937,Value at the end of the trial
+1664558028,a364800acda667fa337e238adcdd5f2f,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558027937,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:17:13 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/15.4 Safari/605.1.15,,,,,,,,,,,
+# Design number was non-random = 27,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558182948,NULL
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558186442,NULL
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558186446,NULL
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558186450,NULL
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558189893,NULL
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,1,0,instructions,NULL,Var,ID,Final,60fec9a2707c2c28ac3af316,1664558189893,Value at the end of the trial
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558189894,NULL
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558233469,NULL
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,2,0,race-trial,NULL,Var,race_5,Final,Herkunft,1664558233469,Value at the end of the trial
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,2,0,race-trial,NULL,Var,race_4,Final,Hautfarbe,1664558233469,Value at the end of the trial
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,2,0,race-trial,NULL,Var,race_3,Final,Aussehen,1664558233469,Value at the end of the trial
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,2,0,race-trial,NULL,Var,race_2,Final,Sprache,1664558233469,Value at the end of the trial
+1664558233,ec574d29403c28f500f0c772b6d355f8,PennController,2,0,race-trial,NULL,Var,race_1,Final,Kultur,1664558233469,Value at the end of the trial
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:18:09 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0,,,,,,,,,,,,
+# Design number was non-random = 27,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558235597,NULL
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558249302,NULL
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558249306,NULL
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558249313,NULL
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,1,0,instructions,NULL,Var,ID,Final,616f3558ec186de0053214b3,1664558254545,Value at the end of the trial
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558254545,NULL
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558254548,NULL
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664558289465,Value at the end of the trial
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,2,0,race-trial,NULL,Var,race_2,Final,Werte,1664558289465,Value at the end of the trial
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,2,0,race-trial,NULL,Var,race_3,Final,Religion,1664558289465,Value at the end of the trial
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,2,0,race-trial,NULL,Var,race_4,Final,Herkunft,1664558289465,Value at the end of the trial
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,2,0,race-trial,NULL,Var,race_5,Final,Aussehen,1664558289466,Value at the end of the trial
+1664558289,0c13bf5b181090639625ad51c8b3b540,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558289466,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:18:37 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 28,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558272509,NULL
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558276980,NULL
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558276982,NULL
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558276985,NULL
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,1,0,instructions,NULL,Var,ID,Final,627bfe5b0f4965a1e102a350,1664558282835,Value at the end of the trial
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558282835,NULL
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558282837,NULL
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,2,0,race-trial,NULL,Var,race_1,Final,Diskriminerung,1664558316887,Value at the end of the trial
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,2,0,race-trial,NULL,Var,race_2,Final,Historisch,1664558316887,Value at the end of the trial
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,2,0,race-trial,NULL,Var,race_3,Final,obsolet,1664558316887,Value at the end of the trial
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,2,0,race-trial,NULL,Var,race_4,Final,eurozentristisch,1664558316887,Value at the end of the trial
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,2,0,race-trial,NULL,Var,race_5,Final,Kampf,1664558316887,Value at the end of the trial
+1664558317,7b40cbeff9aa3c550e008fbed9fb4ab8,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558316887,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:19:10 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0,,,,,,,,,,,,
+# Design number was non-random = 29,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558304380,NULL
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558307290,NULL
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558307292,NULL
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558307294,NULL
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,1,0,instructions,NULL,Var,ID,Final,629898db9c3fbe0a82d2a163,1664558312076,Value at the end of the trial
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558312076,NULL
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558312081,NULL
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,2,0,race-trial,NULL,Var,race_1,Final,es,1664558350315,Value at the end of the trial
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,2,0,race-trial,NULL,Var,race_2,Final,gibt,1664558350315,Value at the end of the trial
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,2,0,race-trial,NULL,Var,race_3,Final,keine,1664558350315,Value at the end of the trial
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,2,0,race-trial,NULL,Var,race_4,Final,menschliche,1664558350315,Value at the end of the trial
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,2,0,race-trial,NULL,Var,race_5,Final,Rasse,1664558350315,Value at the end of the trial
+1664558350,80c3e315eed83e6807da7d35a4bce417,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558350315,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:22:01 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0,,,,,,,,,,,,
+# Design number was non-random = 27,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558156055,NULL
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558406307,NULL
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558406310,NULL
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558406314,NULL
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,1,0,instructions,NULL,Var,ID,Final,5a74e93feea3d300016dd8ca,1664558488570,Value at the end of the trial
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558488570,NULL
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558488572,NULL
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,2,0,race-trial,NULL,Var,race_1,Final,Weiß,1664558519586,Value at the end of the trial
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,2,0,race-trial,NULL,Var,race_2,Final,Schwarz,1664558519586,Value at the end of the trial
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,2,0,race-trial,NULL,Var,race_3,Final,Persönlichkeit,1664558519586,Value at the end of the trial
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,2,0,race-trial,NULL,Var,race_4,Final,Kultur,1664558519586,Value at the end of the trial
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,2,0,race-trial,NULL,Var,race_5,Final,Länder,1664558519586,Value at the end of the trial
+1664558521,167766235c69e6835d0cc17eaf345ae8,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558519586,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:22:54 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 32,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558526541,NULL
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558532923,NULL
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558532924,NULL
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558532925,NULL
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,1,0,instructions,NULL,Var,ID,Final,5a7fab56f49c9a0001f3549e,1664558554344,Value at the end of the trial
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558554344,NULL
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558554345,NULL
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,2,0,race-trial,NULL,Var,race_1,Final,Rassismus,1664558573932,Value at the end of the trial
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,2,0,race-trial,NULL,Var,race_2,Final,Ausgrenzung,1664558573932,Value at the end of the trial
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,2,0,race-trial,NULL,Var,race_3,Final,Wilkur,1664558573932,Value at the end of the trial
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,2,0,race-trial,NULL,Var,race_4,Final,Zufall,1664558573932,Value at the end of the trial
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,2,0,race-trial,NULL,Var,race_5,Final,Diversität,1664558573932,Value at the end of the trial
+1664558574,5a90f8589e59c23f83fe6aa7dd0c2813,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558573932,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:24:33 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 33,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558629408,NULL
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558633519,NULL
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558633527,NULL
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558633533,NULL
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,1,0,instructions,NULL,Var,ID,Final,630514eecbecf961998bf836,1664558648013,Value at the end of the trial
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558648013,NULL
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558648017,NULL
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe ,1664558672684,Value at the end of the trial
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,2,0,race-trial,NULL,Var,race_2,Final,Herkunft ,1664558672684,Value at the end of the trial
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,2,0,race-trial,NULL,Var,race_3,Final,Kultur ,1664558672685,Value at the end of the trial
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,2,0,race-trial,NULL,Var,race_4,Final,Ethnie ,1664558672685,Value at the end of the trial
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,2,0,race-trial,NULL,Var,race_5,Final,Abstammung ,1664558672685,Value at the end of the trial
+1664558673,0cb83d7bce47b565a815481541e3a64d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558672685,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:25:28 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0,,,,,,,,,,,,
+# Design number was non-random = 23,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558728,076655de3f107e910d7a956ca0803504,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664557748298,NULL
+1664558728,076655de3f107e910d7a956ca0803504,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558637814,NULL
+1664558728,076655de3f107e910d7a956ca0803504,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558637816,NULL
+1664558728,076655de3f107e910d7a956ca0803504,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558637823,NULL
+1664558728,076655de3f107e910d7a956ca0803504,PennController,1,0,instructions,NULL,Var,ID,Final,6154d1ad6039a7b481511037,1664558648293,Value at the end of the trial
+1664558728,076655de3f107e910d7a956ca0803504,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558648293,NULL
+1664558728,076655de3f107e910d7a956ca0803504,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558648295,NULL
+1664558728,076655de3f107e910d7a956ca0803504,PennController,2,0,race-trial,NULL,Var,race_1,Final,nichts,1664558728122,Value at the end of the trial
+1664558728,076655de3f107e910d7a956ca0803504,PennController,2,0,race-trial,NULL,Var,race_2,Final,Hautfarbe,1664558728122,Value at the end of the trial
+1664558728,076655de3f107e910d7a956ca0803504,PennController,2,0,race-trial,NULL,Var,race_3,Final,Haarstruktur,1664558728122,Value at the end of the trial
+1664558728,076655de3f107e910d7a956ca0803504,PennController,2,0,race-trial,NULL,Var,race_4,Final,Gesichtszüge,1664558728122,Value at the end of the trial
+1664558728,076655de3f107e910d7a956ca0803504,PennController,2,0,race-trial,NULL,Var,race_5,Final,nichts,1664558728122,Value at the end of the trial
+1664558728,076655de3f107e910d7a956ca0803504,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558728122,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:25:56 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0,,,,,,,,,,,,
+# Design number was non-random = 34,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558682601,NULL
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558699946,NULL
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558699951,NULL
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558699968,NULL
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,1,0,instructions,NULL,Var,ID,Final,5f5494aa76d6147f7ca89533,1664558711783,Value at the end of the trial
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558711783,NULL
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558711789,NULL
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,2,0,race-trial,NULL,Var,race_1,Final,hautfarbe,1664558760452,Value at the end of the trial
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,2,0,race-trial,NULL,Var,race_2,Final,kultur,1664558760452,Value at the end of the trial
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,2,0,race-trial,NULL,Var,race_3,Final,herkunft,1664558760452,Value at the end of the trial
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,2,0,race-trial,NULL,Var,race_4,Final,sprache,1664558760452,Value at the end of the trial
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,2,0,race-trial,NULL,Var,race_5,Final,gesichtszüge,1664558760452,Value at the end of the trial
+1664558756,49a7181ce5953d43b15fa0a78cfd71a0,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558760452,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:26:33 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0,,,,,,,,,,,,
+# Design number was non-random = 34,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558483702,NULL
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558522500,NULL
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558522502,NULL
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558522505,NULL
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,1,0,instructions,NULL,Var,ID,Final,6156c03beb47b00976ab809f,1664558535934,Value at the end of the trial
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558535934,NULL
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558535935,NULL
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,2,0,race-trial,NULL,Var,race_1,Final,Schwarz,1664558567360,Value at the end of the trial
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,2,0,race-trial,NULL,Var,race_2,Final,Weiß,1664558567360,Value at the end of the trial
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,2,0,race-trial,NULL,Var,race_3,Final,Ethnizität,1664558567360,Value at the end of the trial
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,2,0,race-trial,NULL,Var,race_4,Final,Herkunft,1664558567360,Value at the end of the trial
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,2,0,race-trial,NULL,Var,race_5,Final,Hautfarbe,1664558567360,Value at the end of the trial
+1664558793,044d0af99b019c57f38b2fa7a6f21d4c,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558567360,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:27:24 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0,,,,,,,,,,,,
+# Design number was non-random = 35,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558741775,NULL
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558746617,NULL
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558746619,NULL
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558746623,NULL
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,1,0,instructions,NULL,Var,ID,Final,5f8051b402daee04b8108440,1664558758300,Value at the end of the trial
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558758300,NULL
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558758307,NULL
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,2,0,race-trial,NULL,Var,race_1,Final,Verhalten,1664558845911,Value at the end of the trial
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,2,0,race-trial,NULL,Var,race_2,Final,Hautfarbe,1664558845911,Value at the end of the trial
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,2,0,race-trial,NULL,Var,race_3,Final,Kleidung,1664558845911,Value at the end of the trial
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,2,0,race-trial,NULL,Var,race_4,Final,Fremdsein,1664558845911,Value at the end of the trial
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,2,0,race-trial,NULL,Var,race_5,Final,Auffälligkeiten,1664558845911,Value at the end of the trial
+1664558844,26b09b88745fdbbc7d3547a1b4d890b9,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558845911,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:28:19 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (X11; CrOS x86_64 14989.107.0) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 37,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558842719,NULL
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558845369,NULL
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558845372,NULL
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558845377,NULL
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,1,0,instructions,NULL,Var,ID,Final,5962799cb752840001ca478b,1664558860086,Value at the end of the trial
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558860086,NULL
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558860088,NULL
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664558898380,Value at the end of the trial
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,2,0,race-trial,NULL,Var,race_2,Final,Nationalität,1664558898380,Value at the end of the trial
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,2,0,race-trial,NULL,Var,race_3,Final,Sprache,1664558898380,Value at the end of the trial
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,2,0,race-trial,NULL,Var,race_4,Final,Herkunftsland,1664558898381,Value at the end of the trial
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,2,0,race-trial,NULL,Var,race_5,Final,-,1664558898381,Value at the end of the trial
+1664558899,5148c7bc96a45b81e6aaa92eb03f32b3,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558898381,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:29:39 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 38,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558895706,NULL
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558900097,NULL
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558900098,NULL
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558900101,NULL
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,1,0,instructions,NULL,Var,ID,Final,60d10503b38976552a1b35da,1664558903283,Value at the end of the trial
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558903283,NULL
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558903284,NULL
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664558981239,Value at the end of the trial
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,2,0,race-trial,NULL,Var,race_2,Final,Sprache%2C bzw Akzent,1664558981239,Value at the end of the trial
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,2,0,race-trial,NULL,Var,race_3,Final,Augenfarbe,1664558981239,Value at the end of the trial
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,2,0,race-trial,NULL,Var,race_4,Final,Haarfarbe,1664558981239,Value at the end of the trial
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,2,0,race-trial,NULL,Var,race_5,Final,Größe,1664558981239,Value at the end of the trial
+1664558979,f832863713e6ef4b8679ceaf0e3b6779,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664558981239,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:32:07 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 39,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664558950864,NULL
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664558982100,NULL
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664558982101,NULL
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664558982102,NULL
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,1,0,instructions,NULL,Var,ID,Final,5b18cca868a5ed0001734bfe,1664558998022,Value at the end of the trial
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664558998022,NULL
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664558998023,NULL
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,2,0,race-trial,NULL,Var,race_1,Final,Vielfältigkeit,1664559126822,Value at the end of the trial
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,2,0,race-trial,NULL,Var,race_2,Final,Zusammenhalt,1664559126822,Value at the end of the trial
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,2,0,race-trial,NULL,Var,race_3,Final,Kultur,1664559126822,Value at the end of the trial
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,2,0,race-trial,NULL,Var,race_4,Final,Religion,1664559126822,Value at the end of the trial
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,2,0,race-trial,NULL,Var,race_5,Final,Liebe,1664559126822,Value at the end of the trial
+1664559127,baf4bb4a0011cbfd03c00912abff6858,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559126822,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:34:07 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1,,,,,,,,,,
+# Design number was non-random = 41,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559181956,NULL
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559186961,NULL
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559186970,NULL
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559186983,NULL
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,1,0,instructions,NULL,Var,ID,Final,5d8c96e60ef92e001a7b8876,1664559206637,Value at the end of the trial
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559206638,NULL
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559206645,NULL
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,2,0,race-trial,NULL,Var,race_4,Final,Pseudowissenschaft,1664559247101,Value at the end of the trial
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,2,0,race-trial,NULL,Var,race_3,Final,NS-Zeit,1664559247101,Value at the end of the trial
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,2,0,race-trial,NULL,Var,race_2,Final,Sozialisation,1664559247101,Value at the end of the trial
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664559247101,Value at the end of the trial
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559247102,NULL
+1664559247,d452a796d0a3c4078aaae8f86eb1645d,PennController,2,0,race-trial,NULL,Var,race_5,Final,Status,1664559247102,Value at the end of the trial
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:34:13 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 41,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559186348,NULL
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559188291,NULL
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559188294,NULL
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559188297,NULL
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,1,0,instructions,NULL,Var,ID,Final,5b0a869f1e55760001b93fa3,1664559193526,Value at the end of the trial
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559193526,NULL
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559193528,NULL
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664559253642,Value at the end of the trial
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,2,0,race-trial,NULL,Var,race_2,Final,Herkunft,1664559253642,Value at the end of the trial
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,2,0,race-trial,NULL,Var,race_3,Final,Genetik,1664559253642,Value at the end of the trial
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,2,0,race-trial,NULL,Var,race_4,Final,Kultur,1664559253642,Value at the end of the trial
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,2,0,race-trial,NULL,Var,race_5,Final,Gemeinschaft,1664559253642,Value at the end of the trial
+1664559253,617636766b012e219c7c045ece54d8fc,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559253642,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:35:26 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0,,,,,,,,,,,,
+# Design number was non-random = 41,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559239834,NULL
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559249367,NULL
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559249369,NULL
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559249372,NULL
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,1,0,instructions,NULL,Var,ID,Final,5f298b2b7823df0a46e25d81,1664559265608,Value at the end of the trial
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559265608,NULL
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559265610,NULL
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,2,0,race-trial,NULL,Var,race_1,Final,Vorurteile,1664559335362,Value at the end of the trial
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,2,0,race-trial,NULL,Var,race_2,Final,Konstrukt,1664559335362,Value at the end of the trial
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,2,0,race-trial,NULL,Var,race_3,Final,Herkunft,1664559335362,Value at the end of the trial
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,2,0,race-trial,NULL,Var,race_4,Final,Genetik,1664559335362,Value at the end of the trial
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,2,0,race-trial,NULL,Var,race_5,Final,Vielfalt,1664559335362,Value at the end of the trial
+1664559326,06fa4a34697799db4e6001280953ad9c,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559335362,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:35:30 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/106.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 41,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559131263,NULL
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559141992,NULL
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559141995,NULL
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559141999,NULL
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,1,0,instructions,NULL,Var,ID,Final,5d0a33b56dd417001ae19535,1664559158441,Value at the end of the trial
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559158441,NULL
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559158442,NULL
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,2,0,race-trial,NULL,Var,race_1,Final,Rassismus,1664559330385,Value at the end of the trial
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,2,0,race-trial,NULL,Var,race_2,Final,Ungerechtigkeit,1664559330385,Value at the end of the trial
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,2,0,race-trial,NULL,Var,race_3,Final,Apartheit,1664559330385,Value at the end of the trial
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,2,0,race-trial,NULL,Var,race_4,Final,Nationalsozialismus,1664559330385,Value at the end of the trial
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,2,0,race-trial,NULL,Var,race_5,Final,rechter Terrorismus,1664559330385,Value at the end of the trial
+1664559330,83865b5084bb5923daa55d290c11460b,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559330385,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:35:35 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0,,,,,,,,,,,,
+# Design number was non-random = 43,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559272392,NULL
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559287760,NULL
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559287762,NULL
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559287764,NULL
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,1,0,instructions,NULL,Var,ID,Final,56d8ed30d13f6b000c542ce7,1664559299543,Value at the end of the trial
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559299543,NULL
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559299544,NULL
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,2,0,race-trial,NULL,Var,race_1,Final,Krieg,1664559334910,Value at the end of the trial
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,2,0,race-trial,NULL,Var,race_2,Final,Ungerechtigkeit,1664559334910,Value at the end of the trial
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,2,0,race-trial,NULL,Var,race_3,Final,Liebe,1664559334910,Value at the end of the trial
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,2,0,race-trial,NULL,Var,race_4,Final,Gleichheit,1664559334910,Value at the end of the trial
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,2,0,race-trial,NULL,Var,race_5,Final,Grundrechte,1664559334910,Value at the end of the trial
+1664559335,1f200dc9c81b5c99ecb5f6ceb73cd4aa,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559334910,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:35:47 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 39,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559020858,NULL
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559042194,NULL
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559042198,NULL
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559042202,NULL
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,1,0,instructions,NULL,Var,ID,Final,5cb167c332ca24001ae2fcbd,1664559073123,Value at the end of the trial
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559073123,NULL
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559073125,NULL
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,2,0,race-trial,NULL,Var,race_1,Final,hautfarbe,1664559407863,Value at the end of the trial
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,2,0,race-trial,NULL,Var,race_2,Final,aussehen,1664559407863,Value at the end of the trial
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,2,0,race-trial,NULL,Var,race_3,Final,herkunft,1664559407863,Value at the end of the trial
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,2,0,race-trial,NULL,Var,race_4,Final,karakter,1664559407863,Value at the end of the trial
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,2,0,race-trial,NULL,Var,race_5,Final,wessn,1664559407864,Value at the end of the trial
+1664559347,c90d4d24154d4c0f407c7f272762311e,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559407864,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:36:58 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0,,,,,,,,,,,,
+# Design number was non-random = 47,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559350216,NULL
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559365610,NULL
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559365613,NULL
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559365615,NULL
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,1,0,instructions,NULL,Var,ID,Final,5702439e7a84480009b6413d,1664559376008,Value at the end of the trial
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559376008,NULL
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559376009,NULL
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,2,0,race-trial,NULL,Var,race_1,Final,Rassismus,1664559418388,Value at the end of the trial
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,2,0,race-trial,NULL,Var,race_2,Final,Diskriminierung,1664559418388,Value at the end of the trial
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,2,0,race-trial,NULL,Var,race_3,Final,Nazis,1664559418388,Value at the end of the trial
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,2,0,race-trial,NULL,Var,race_4,Final,Segregation,1664559418388,Value at the end of the trial
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,2,0,race-trial,NULL,Var,race_5,Final,Hautfarbe,1664559418388,Value at the end of the trial
+1664559418,873429b746cae52e2694f3bcaa5d7ca3,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559418388,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:40:08 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/15.5 Safari/605.1.15,,,,,,,,,,,
+# Design number was non-random = 48,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559608,3334e079eb538a60c396e791da568077,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559549222,NULL
+1664559608,3334e079eb538a60c396e791da568077,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559565586,NULL
+1664559608,3334e079eb538a60c396e791da568077,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559565596,NULL
+1664559608,3334e079eb538a60c396e791da568077,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559565609,NULL
+1664559608,3334e079eb538a60c396e791da568077,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559578825,NULL
+1664559608,3334e079eb538a60c396e791da568077,PennController,1,0,instructions,NULL,Var,ID,Final,5d2ce26bc5b83a0001b8154f,1664559578825,Value at the end of the trial
+1664559608,3334e079eb538a60c396e791da568077,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559578829,NULL
+1664559608,3334e079eb538a60c396e791da568077,PennController,2,0,race-trial,NULL,Var,race_5,Final,Kultur ,1664559607584,Value at the end of the trial
+1664559608,3334e079eb538a60c396e791da568077,PennController,2,0,race-trial,NULL,Var,race_4,Final,Geburtsort,1664559607584,Value at the end of the trial
+1664559608,3334e079eb538a60c396e791da568077,PennController,2,0,race-trial,NULL,Var,race_3,Final,Hautfarbe,1664559607584,Value at the end of the trial
+1664559608,3334e079eb538a60c396e791da568077,PennController,2,0,race-trial,NULL,Var,race_2,Final,Eltern,1664559607584,Value at the end of the trial
+1664559608,3334e079eb538a60c396e791da568077,PennController,2,0,race-trial,NULL,Var,race_1,Final,Herkunft,1664559607584,Value at the end of the trial
+1664559608,3334e079eb538a60c396e791da568077,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559607585,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:40:42 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 48,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559553594,NULL
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559563357,NULL
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559563358,NULL
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559563362,NULL
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,1,0,instructions,NULL,Var,ID,Final,58c537bfb101a7000129391a,1664559577886,Value at the end of the trial
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559577886,NULL
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559577888,NULL
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,2,0,race-trial,NULL,Var,race_1,Final,veraltet,1664559641781,Value at the end of the trial
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,2,0,race-trial,NULL,Var,race_2,Final,Kolonialismus,1664559641781,Value at the end of the trial
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,2,0,race-trial,NULL,Var,race_3,Final,Schaubilder,1664559641781,Value at the end of the trial
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,2,0,race-trial,NULL,Var,race_4,Final,Forschung,1664559641781,Value at the end of the trial
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,2,0,race-trial,NULL,Var,race_5,Final,Kontinente,1664559641781,Value at the end of the trial
+1664559642,fbee2201e4198d6680257bf8fb05dcbc,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559641781,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:42:30 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 50,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559698229,NULL
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559702291,NULL
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559702292,NULL
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559702294,NULL
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,1,0,instructions,NULL,Var,ID,Final,60fd9e80f4078bdc3ec935b8,1664559715551,Value at the end of the trial
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559715551,NULL
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559715552,NULL
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,2,0,race-trial,NULL,Var,race_1,Final,hautfarbe,1664559750189,Value at the end of the trial
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,2,0,race-trial,NULL,Var,race_2,Final,kultur,1664559750189,Value at the end of the trial
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,2,0,race-trial,NULL,Var,race_3,Final,verhalten,1664559750189,Value at the end of the trial
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,2,0,race-trial,NULL,Var,race_4,Final,rassismus,1664559750189,Value at the end of the trial
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,2,0,race-trial,NULL,Var,race_5,Final,veraltete denkweise,1664559750189,Value at the end of the trial
+1664559750,2874a27b57f1eaa92e25320f1bf76d75,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559750189,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:43:23 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 50,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559736112,NULL
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559748720,NULL
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559748722,NULL
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559748731,NULL
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,1,0,instructions,NULL,Var,ID,Final,5d43c606773d8b00016eaa8a,1664559760678,Value at the end of the trial
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559760678,NULL
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559760680,NULL
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664559819722,Value at the end of the trial
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,2,0,race-trial,NULL,Var,race_2,Final,Herkunft,1664559819722,Value at the end of the trial
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,2,0,race-trial,NULL,Var,race_3,Final,Vorfahren,1664559819722,Value at the end of the trial
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,2,0,race-trial,NULL,Var,race_4,Final,Gene,1664559819722,Value at the end of the trial
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,2,0,race-trial,NULL,Var,race_5,Final,Eigenschaften,1664559819722,Value at the end of the trial
+1664559803,355a82b65fee369e06762f5ebc23cbd4,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559819723,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:44:11 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50,,,,,,,,,,,
+# Design number was non-random = 51,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559805063,NULL
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559807979,NULL
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559807981,NULL
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559807984,NULL
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,1,0,instructions,NULL,Var,ID,Final,5f4cd7926e1f3e8ed56bd215,1664559818011,Value at the end of the trial
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559818011,NULL
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559818012,NULL
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664559851477,Value at the end of the trial
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,2,0,race-trial,NULL,Var,race_2,Final,Herkunft,1664559851477,Value at the end of the trial
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,2,0,race-trial,NULL,Var,race_3,Final,Aussehen,1664559851477,Value at the end of the trial
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,2,0,race-trial,NULL,Var,race_4,Final,Kultur,1664559851477,Value at the end of the trial
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,2,0,race-trial,NULL,Var,race_5,Final,Tradition,1664559851477,Value at the end of the trial
+1664559851,bc75dc0aca63ca03d6314800545f272d,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559851477,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:45:22 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 52,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559824907,NULL
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559838467,NULL
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559838468,NULL
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559838471,NULL
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,1,0,instructions,NULL,Var,ID,Final,627bc3f6c5ff6d70cb3eb9e2,1664559847426,Value at the end of the trial
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559847426,NULL
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559847427,NULL
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664559922586,Value at the end of the trial
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,2,0,race-trial,NULL,Var,race_2,Final,Größe,1664559922586,Value at the end of the trial
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,2,0,race-trial,NULL,Var,race_3,Final,Gesicht,1664559922586,Value at the end of the trial
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,2,0,race-trial,NULL,Var,race_4,Final,Haarfarbe,1664559922586,Value at the end of the trial
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,2,0,race-trial,NULL,Var,race_5,Final,Optik,1664559922586,Value at the end of the trial
+1664559922,2c5d3ebc85b3ab1244de28f334b10205,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559922586,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:46:28 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/16.0 Mobile/15E148 Safari/604.1,,,,,,,,,,,
+# Design number was non-random = 53,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559911876,NULL
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559916631,NULL
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559916636,NULL
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559916641,NULL
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559932405,NULL
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,1,0,instructions,NULL,Var,ID,Final,6321beaae7b613a5444be257,1664559932405,Value at the end of the trial
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559932416,NULL
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559988316,NULL
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,2,0,race-trial,NULL,Var,race_5,Final,Umfeld,1664559988316,Value at the end of the trial
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,2,0,race-trial,NULL,Var,race_4,Final,Region,1664559988316,Value at the end of the trial
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,2,0,race-trial,NULL,Var,race_3,Final,Kultur ,1664559988316,Value at the end of the trial
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,2,0,race-trial,NULL,Var,race_2,Final,Religion,1664559988316,Value at the end of the trial
+1664559988,c86cece15b2d86525133a007602de4a6,PennController,2,0,race-trial,NULL,Var,race_1,Final,Sprache ,1664559988316,Value at the end of the trial
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:46:35 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.105,,,,,,,,,,,
+# Design number was non-random = 53,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664559891791,NULL
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664559896443,NULL
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664559896447,NULL
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664559896452,NULL
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,1,0,instructions,NULL,Var,ID,Final,615416df060f5730a1d4e113,1664559901690,Value at the end of the trial
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664559901690,NULL
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664559901692,NULL
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664559995452,Value at the end of the trial
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,2,0,race-trial,NULL,Var,race_2,Final,Gesichtsform,1664559995452,Value at the end of the trial
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,2,0,race-trial,NULL,Var,race_3,Final,schwierig,1664559995452,Value at the end of the trial
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,2,0,race-trial,NULL,Var,race_4,Final,"Gerede von ""Gelehrten""",1664559995452,Value at the end of the trial
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,2,0,race-trial,NULL,Var,race_5,Final,Sprache ?,1664559995452,Value at the end of the trial
+1664559995,532a9b686557cdbe6ad78f869591b2bd,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664559995453,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:51:45 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Linux; Android 12; Note 6T) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 56,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664560245368,NULL
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664560266669,NULL
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664560266681,NULL
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664560266699,NULL
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,1,0,instructions,NULL,Var,ID,Final,5e62549164d007011d03158c,1664560279368,Value at the end of the trial
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664560279368,NULL
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664560279375,NULL
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,2,0,race-trial,NULL,Var,race_1,Final,Menschen,1664560303774,Value at the end of the trial
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,2,0,race-trial,NULL,Var,race_2,Final,Gleichheit,1664560303774,Value at the end of the trial
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,2,0,race-trial,NULL,Var,race_3,Final,Diskriminierung,1664560303774,Value at the end of the trial
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,2,0,race-trial,NULL,Var,race_4,Final,Sklaven,1664560303775,Value at the end of the trial
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,2,0,race-trial,NULL,Var,race_5,Final,Rassismus,1664560303775,Value at the end of the trial
+1664560305,1bb484031955a3dd74e9d66898f666ef,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664560303775,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:52:02 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 56,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664560220145,NULL
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664560222587,NULL
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664560222589,NULL
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664560222594,NULL
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,1,0,instructions,NULL,Var,ID,Final,6283e3aa864fdddd35489abc,1664560227812,Value at the end of the trial
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664560227812,NULL
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664560227813,NULL
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,2,0,race-trial,NULL,Var,race_1,Final,Nationalsozialismus,1664560322112,Value at the end of the trial
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,2,0,race-trial,NULL,Var,race_2,Final,Rassentrennung,1664560322112,Value at the end of the trial
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,2,0,race-trial,NULL,Var,race_3,Final,Rassismus,1664560322112,Value at the end of the trial
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,2,0,race-trial,NULL,Var,race_4,Final,Diskriminierung,1664560322113,Value at the end of the trial
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,2,0,race-trial,NULL,Var,race_5,Final,Verschwörungen,1664560322113,Value at the end of the trial
+1664560322,8493008fc32d22a93b4a8049e4dfbf6c,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664560322113,NULL
+#,,,,,,,,,,,,
+# Results on Fri,30 Sep 2022 17:53:10 GMT,,,,,,,,,,,
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/105.0.0.0 Safari/537.36,,,,,,,,,,,
+# Design number was non-random = 57,,,,,,,,,,,,
+#,,,,,,,,,,,,
+# Columns below this comment are as follows:,,,,,,,,,,,,
+# 1. Results reception time.,,,,,,,,,,,,
+# 2. MD5 hash of participant's IP address.,,,,,,,,,,,,
+# 3. Controller name.,,,,,,,,,,,,
+# 4. Order number of item.,,,,,,,,,,,,
+# 5. Inner element number.,,,,,,,,,,,,
+# 6. Label.,,,,,,,,,,,,
+# 7. Latin Square Group.,,,,,,,,,,,,
+# 8. PennElementType.,,,,,,,,,,,,
+# 9. PennElementName.,,,,,,,,,,,,
+# 10. Parameter.,,,,,,,,,,,,
+# 11. Value.,,,,,,,,,,,,
+# 12. EventTime.,,,,,,,,,,,,
+# 13. Comments.,,,,,,,,,,,,
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,0,0,consent,NULL,PennController,0,_Trial_,Start,1664560255420,NULL
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,0,0,consent,NULL,Button,agree,Click,Click,1664560259265,NULL
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,0,0,consent,NULL,PennController,0,_Trial_,End,1664560259268,NULL
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1664560259272,NULL
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,1,0,instructions,NULL,Var,ID,Final,5bf3199ebe7c7300017b710a,1664560270137,Value at the end of the trial
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1664560270137,NULL
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,Start,1664560270139,NULL
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,2,0,race-trial,NULL,Var,race_1,Final,Hautfarbe,1664560323305,Value at the end of the trial
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,2,0,race-trial,NULL,Var,race_2,Final,Größe,1664560323305,Value at the end of the trial
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,2,0,race-trial,NULL,Var,race_3,Final,Herkunft,1664560323305,Value at the end of the trial
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,2,0,race-trial,NULL,Var,race_4,Final,Abstammung,1664560323305,Value at the end of the trial
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,2,0,race-trial,NULL,Var,race_5,Final,Verwandschaft,1664560323305,Value at the end of the trial
+1664560390,c3ceca3c099c7d3d1323e5117f7c8248,PennController,2,0,race-trial,NULL,PennController,2,_Trial_,End,1664560323305,NULL
